@@ -1,5 +1,7 @@
 ### Hi there, I'm [Kafka'K](https://blog.yurich.me/) 👋
 
+[![Github](https://img.shields.io/github/followers/thuchenyusi?label=Follow&style=social)](https://github.com/thuchenyusi)
+
 <!--
 Here are some ideas to get you started:
 
