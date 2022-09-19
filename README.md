@@ -1,7 +1,11 @@
-### Hi there, I'm [Kafka'K](https://blog.yurich.me/) 👋
+# Hi there, I'm [Kafka'K](https://blog.yurich.me/) 👋
 
-[![Github](https://img.shields.io/github/followers/thuchenyusi?label=Follow&style=social)](https://github.com/thuchenyusi)
-[![Github](https://img.shields.io/github/stars/thuchenyusi?style=social)](https://github.com/thuchenyusi)
+- 👨‍🎓 Graduated from THU. Major in EE.
+- 📽️ Cinephile. Favorite director is King Hu.
+- 👭 Yuri Anime/Manga/Game lover.
+
+[![Github Followers](https://img.shields.io/github/followers/thuchenyusi?label=Follow&style=social)](https://github.com/thuchenyusi)
+[![Github Stars](https://img.shields.io/github/stars/thuchenyusi?style=social)](https://github.com/thuchenyusi)
 
 <!--
 Here are some ideas to get you started:
