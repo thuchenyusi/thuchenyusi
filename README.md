@@ -1,8 +1,8 @@
 # Hi there, I'm [Kafka'K](https://blog.yurich.me/) 👋
 
-- 👨‍🎓 Graduated from THU. Major in EE.
-- 📽️ Cinephile. Favorite director is King Hu.
-- 👭 Yuri Anime/Manga/Game lover.
+- 👨‍🎓 EE Graduate from THU.
+- 📽️ Cinephile. Favorite director: King Hu.
+- 👭 Yuri Anime, Manga & Game Enthusiast.
 
 [![Github Followers](https://img.shields.io/github/followers/thuchenyusi?label=Follow&style=social)](https://github.com/thuchenyusi)
 [![Github Stars](https://img.shields.io/github/stars/thuchenyusi?style=social)](https://github.com/thuchenyusi)
